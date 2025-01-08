@@ -1,0 +1,22 @@
+SMAP
+ImageSearch_jsp.java
+JSP
+*S JSP
+*F
++ 0 ImageSearch.jsp
+ImageSearch.jsp
++ 1 db.jsp
+db.jsp
+*L
+5,4:63
+5#1,11:66
+16,3:13
+18,2:77
+20,3:80
+22,4:83
+8#0,23:86
+31,7:17
+37,2:109
+39,109:112
+147,4:221
+*E
